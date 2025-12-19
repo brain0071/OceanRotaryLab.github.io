@@ -8,14 +8,12 @@ sections:
   - block: hero
     content:
       title: |
-        Wowchemy
-        Research Group
+        Ocean Rotary Laboratory
       image:
         filename: welcome.jpg
       text: |
         <br>
-        
-        The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+         **Underwater robotics · Model Predictive Control · Koopman-based modeling** We develop reliable autonomy for AUVs by combining physics-informed models, data-driven dynamics learning, and disturbance prediction—validated in field experiments.
   
   - block: collection
     content:
