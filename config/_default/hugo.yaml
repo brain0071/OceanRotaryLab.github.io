@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: Ocean Rotary Laboratory # Website name
-baseURL: 'https://brain0071.github.io/' # Website URL
+baseURL: 'https://brain0071.github.io/OceanRotaryLab.github.io/' # Website URL
 
 ############################
 ## LANGUAGE
@@ -14,6 +14,8 @@ defaultContentLanguage: en
 hasCJKLanguage: false
 defaultContentLanguageInSubdir: false
 removePathAccents: true
+# naodai
+canonifyURLs: true
 
 ############################
 ## ADVANCED
