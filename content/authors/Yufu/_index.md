@@ -48,16 +48,16 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:test@example.org'
+    link: 'yufugao1998@163.com'
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://x.com/cloudy_gao93540
   - icon: google-scholar
     icon_pack: ai
-    link: https://scholar.google.com/citations?user=CqeCbDYAAAAJ&hl=en&oi=ao
+    link: https://scholar.google.com.hk/citations?user=do6FULIAAAAJ&hl=en
   - icon: github
     icon_pack: fab
-    link: https://github.com/brain0071
+    link: https://github.com/cloudygao
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv

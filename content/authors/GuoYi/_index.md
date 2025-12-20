@@ -1,14 +1,14 @@
 ---
 # Display name
-title: Kezhen Sun
+title: Yi Guo
 
 # Full name (for SEO)
-first_name: Alice
-last_name: Wu
+first_name: Yi
+last_name: Guo
 
 # Username (this should match the folder name)
 authors:
-  - 吳恩達
+  - Guo Yi
 
 # Is this the primary user of the site?
 superuser: false
